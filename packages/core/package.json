@@ -35,6 +35,6 @@
         "@web3uikit/config": "*",
         "@web3uikit/styles": "*",
         "@web3uikit/icons": "*",
-        "react-router-dom": "^6.3.0"
+        "react-router-dom": "^6.30.3"
     }
 }
